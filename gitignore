@@ -1,0 +1,8 @@
+# Ignore virtual environment
+**/venv/
+
+# Ignore HTML dashboards
+**/ga_dashboard_interactive.html
+
+# Ignore Mac system junk
+**/.DS_Store
